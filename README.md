@@ -1,5 +1,7 @@
 # Genshin-Impact-Lv60
 
+![Genshin Impact Poster](poster.png)
+
 Starting Life in a Gacha World, But I'm already Lv. 60! 🎮✨
 
 ## Sobre el Proyecto
@@ -11,6 +13,7 @@ Esta es una novela ligera (light novel) ambientada en el universo de Genshin Imp
 ```
 Genshin-Impact-Lv60/
 ├── README.md          ← Este archivo
+├── poster.png         ← Póster oficial del proyecto
 ├── LICENSE            ← Licencia del proyecto
 ├── .gitignore         ← Archivos y carpetas ignorados por Git
 ├── worldbuilding.md   ← Lore, ubicaciones y reglas del mundo
